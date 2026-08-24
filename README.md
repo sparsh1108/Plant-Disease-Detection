@@ -1,3 +1,9 @@
+LIVE DEMO: https://plant-disease-detection-jfaltrvjrfapzahvchfcng.streamlit.app/
+
+
+
+
+
 This project implements an **AI-powered Plant Disease Detection System** using **Transfer Learning** with **MobileNetV2**.
 
 The model classifies plant leaf images into **38 different disease and healthy classes** from the PlantVillage dataset.
