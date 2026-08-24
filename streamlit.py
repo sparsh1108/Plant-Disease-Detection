@@ -31,7 +31,7 @@ if uploaded_file is not None:
         with st.spinner("Analyzing image..."):
 
             response = requests.post(
-                "http://127.0.0.1:8000/predict",
+                "https://plant-disease-detection-3-uvki.onrender.com/predict",
                 files={
                     "file": (
                         uploaded_file.name,
